@@ -22,13 +22,13 @@ I'm a **BSIT Student** passionate about photo & video editing and technology.
 
 ### 🔥 Streak Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=oropillaferdinand&theme=dark&hide_border=true&fire=FFB800&ring=FFB800&currStreakLabel=FFB800)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ferdinandgabayanoropilla-7&theme=dark&hide_border=true&fire=FFB800&ring=FFB800&currStreakLabel=FFB800)](https://git.io/streak-stats)
 
 ---
 
 ### 📊 GitHub Stats
 
-[![Ferdinand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oropillaferdinand&show_icons=true&theme=dark&hide_border=true&title_color=FFB800&icon_color=FFB800)](https://github.com/oropillaferdinand)
+[![Ferdinand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ferdinandgabayanoropilla-7&show_icons=true&theme=dark&hide_border=true&title_color=FFB800&icon_color=FFB800)](https://github.com/ferdinandgabayanoropilla-7)
 
 ---
 
@@ -51,4 +51,5 @@ I'm a **BSIT Student** passionate about photo & video editing and technology.
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=oropillaferdinand&color=FFB800&style=flat&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=ferdinandgabayanoropilla-7&color=FFB800&style=flat&label=Profile+Views)
+
